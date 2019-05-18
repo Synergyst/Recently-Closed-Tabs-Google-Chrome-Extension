@@ -1,6 +1,7 @@
 {
    "name": "Recently Closed Tabs",
    "version": "2.1",
+   "manifest_version": 2,
    "description": "Manage your recently closed tabs.",
    "permissions": [ "tabs", "http://*/*", "https://*/*", "*://*/*" ],
    "background_page": "background.html",
